@@ -1,5 +1,5 @@
 # movie-tmdb
-Projeto de Listagem de Filmes do TMDB
+Projeto de Listagem de Filmes do TMDB usando React com Vite
 
 ![Screenshot from 2022-07-08 14-34-25](https://user-images.githubusercontent.com/44420212/178042143-c6bc143e-2c70-4af3-bfca-3d7feae695be.png)
 
