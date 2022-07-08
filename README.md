@@ -5,3 +5,4 @@ Projeto de Listagem de Filmes do TMDB
 
 - Projeto desenvolvido com React/Vite.
 - Consultamos a API com TMDB (que é uma plataforma de filmes) e pegamos dados para listar na nossa aplicação.
+- Feito com base no vídeo do Matheus Battisti
